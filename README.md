@@ -8,6 +8,11 @@ A Flutter project for GreenSHeart Internship Coding Test
 
 Created: 12/10/24
 
+# Assumptions
+- Users can understand English
+- Medication may not always be recorded by the patient
+- Home page will only be displayed after user login
+
 # Part 1
 
 For simplicity, a bottom navigation bar is used to allow users to switch between the home page and login page.
